@@ -9,3 +9,7 @@
 * Passing functions as props to control UI (e.g switching between Login and Register forms).
 * Creating responsive UI layouts using Bootstrap classes.
 
+
+
+https://github.com/user-attachments/assets/92e973b4-f448-4ebd-9d66-49577fa3b532
+
